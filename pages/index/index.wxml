@@ -1,0 +1,44 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">  
+    <view class="userinfo-avatar">    
+      <open-data  type="userAvatarUrl"></open-data>  
+    </view>    
+  </view>
+  <view class="ui-top">
+    <view class="userinfo-grade">{{userData.grade}}</view>
+    <view class="userinfo-exp">{{userData.exp.cur}}/{{userData.exp.limit}}</view>
+    <view class="userinfo-coin">{{userData.coin}}</view>
+    <view class="userinfo-nickname">
+      <open-data type="userNickName"></open-data>
+    </view>
+  </view>
+  <view class="wap">
+    <view class="p-wap p1" data-step='1' bindtap='goStep'>
+      <view wx-if="{{userData.step==1}}" class="p-ico mushroom"></view>
+      <view wx-if="{{userData.step>=1}}" class="p-ico start-up"></view>
+      <view wx-if="{{userData.step>=1}}" class="p-ico smoke"></view>
+    </view>
+    <view class="p-wap p2" data-step='2' bindtap='goStep'>
+      <view wx-if="{{userData.step==2}}" class="p-ico mushroom"></view>
+      <view wx-if="{{userData.step>=2}}" class="p-ico start-up"></view>
+      <view wx-if="{{userData.step>=2}}" class="p-ico smoke"></view>
+      <view wx-if="{{userData.step+1<2}}" class="p-ico lock"></view>
+    </view>
+    <view class="p-wap p3" data-step='3' bindtap='goStep'>
+      <view wx-if="{{userData.step==3}}" class="p-ico mushroom"></view>
+      <view wx-if="{{userData.step>=3}}" class="p-ico start-up"></view>
+      <view wx-if="{{userData.step>=3}}" class="p-ico smoke"></view>
+      <view wx-if="{{userData.step+1<3}}" class="p-ico lock"></view>
+    </view>
+    <view class="p-wap p4" data-step='4' bindtap='goStep'>
+      <view wx-if="{{userData.step==4}}" class="p-ico mushroom"></view>
+      <view wx-if="{{userData.step>=4}}" class="p-ico start-up"></view>
+      <view wx-if="{{userData.step>=4}}" class="p-ico smoke"></view>
+      <view wx-if="{{userData.step+1<4}}" class="p-ico lock"></view>
+    </view>
+  </view>
+  <view class="ui-foot">
+    <view class="userinfo-strength">{{userData.strength.cur}}/{{userData.strength.limit}}</view>
+  </view>
+</view>

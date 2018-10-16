@@ -1,0 +1,3289 @@
+var djtd = [{
+  "type": 1,
+  "degree": 1,
+  "title": "电荷的基本单位是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "安秒",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "安培",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "库仑",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "千克",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "1安培等于（ ）微安。",
+  "ans": "B",
+  "opts": [{
+    "title": "10的三次方",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "10的六次方",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "10的九次方",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "10的平方",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "将一根导线均匀拉长为原长度的3倍，则阻值为原来的（ ）倍。",
+  "ans": "C",
+  "opts": [{
+    "title": "3",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "42372",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "9",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "42378",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "产生串联谐振的条件是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "XL＞Xc",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "XL＜Xc",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "XL＝Xc",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "XL≥Xc",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "三相对称负载电路平均功率中的功率因素角是（ ）之间的相位角。",
+  "ans": "D",
+  "opts": [{
+    "title": "线电压与线电流",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "相电压与线电流",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "线电压与相电流",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "相电压与相电流",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "当电源频率增加后，分别与灯泡串联的R、L、C3个回路并联，与（ ）串联的灯泡亮度增加。",
+  "ans": "C",
+  "opts": [{
+    "title": "R",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "L",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "C",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "R和L",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "额定电压为220V的灯泡接在110V电源上，灯泡的功率是原来的（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "2",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "4",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "1\/2",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "1\/4",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "两只额定电压相同的电阻串联接在电路中，其阻值较大的电阻发热（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "相同",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "较大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "较小",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "用叠加原理计算复杂电路，就是把一个复杂电路化为（ ）电路进行计算的。",
+  "ans": "A",
+  "opts": [{
+    "title": "单电源",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "较大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "较小",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "R、L",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电路主要由负载、线路、电源、（ ）组成。",
+  "ans": "B",
+  "opts": [{
+    "title": "变压器",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "开关",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "发电机",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "仪表",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电流是由电子的定向移动形成的，习惯上把（ ）定向移动的方向作为电流的方向。",
+  "ans": "D",
+  "opts": [{
+    "title": "左手定则",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "右手定则",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "N-S",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "正电荷",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电流的大小用电流强度来表示，其数值等于单位时间内穿过导体横截面的（ ）代数和。",
+  "ans": "B",
+  "opts": [{
+    "title": "电流",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电量(电荷)",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电流强度",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "功率",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "导体的电阻不但与导体的长度、截面有关，而且还与导体的（ ）有关。",
+  "ans": "D",
+  "opts": [{
+    "title": "温度",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "湿度",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "距离",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "材质",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "交流电的三要素是指最大值、频率、（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "相位",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "角度",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "初相角",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电压",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "正弦交流电的有效值等核最大值的（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "1\/3",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "1\/2",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "2",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "0.7",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "阻值不随外加电压或电流的大小而改变的电阻叫（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "固定电阻",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "可变电阻",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "线性电阻",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "非线性电阻",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "在导体中的电流，越接近于导体表面，其（ ），这种现象叫集肤效应。",
+  "ans": "A",
+  "opts": [{
+    "title": "电流越大",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电压越高",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "温度越高",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电阻越大",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "有一只功率为100W的白炽灯，该功率是指（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "有效值",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "平均值",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "瞬时值",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "最大值",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "感应电流所产生的磁通总是企图（ ）原有磁通的变化。",
+  "ans": "C",
+  "opts": [{
+    "title": "影响",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "增强",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "阻止",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "衰减",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在三相四线制中，当三相负载不平衡时，三相电压相等，中性线电流（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "等于零",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不等于零",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "增大",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "减小",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电容器上的电压升高过程是电容器中电场建立的过程，在此过程中，它从（ ）吸取能量。",
+  "ans": "C",
+  "opts": [{
+    "title": "电容",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "高次谐波",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电源",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电感",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "串联谐振是指电路呈纯（ ）性。",
+  "ans": "A",
+  "opts": [{
+    "title": "电阻",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电容",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电感",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电抗",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电容器在直流稳态电路中相当于（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "短路",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "开路",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "高通滤波器",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "低通滤波器",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "半导体的电阻随温度的升高（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "不变",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "增大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "减小",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电场力做功与所经过的路径无关，参考点确定后，电场中各点的电位之值便惟一确定，这就是电位（ ）原理。",
+  "ans": "C",
+  "opts": [{
+    "title": "稳定",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不变",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "惟一性",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "稳压",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "串联电路中，电压的分配与电阻成（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "正比",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反比",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "1:1",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "2:1",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "并联电路中，电流的分配与电阻成（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "正比",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反比",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "1:1",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "2:1",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "线圈中感应电动势的方向可以根据（ ）定律，并应用线圈的右手螺旋定则来判定。",
+  "ans": "C",
+  "opts": [{
+    "title": "欧姆",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "基儿霍夫",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "楞次",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "戴维南",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "在纯电感电路中，没有能量消耗，只有能量（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "变化",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "增强",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "交换",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "补充",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "磁通的单位是（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "B",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "WB",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "T",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "MB",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "对称三相电势在任一瞬间的（ ）等于零。",
+  "ans": "D",
+  "opts": [{
+    "title": "频率",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "波形",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "角度",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "代数和",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "互感电动势的方向不仅取决于磁通的（ ），还与线圈的绕向有关。",
+  "ans": "D",
+  "opts": [{
+    "title": "方向",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "大小",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "强度",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "零增减",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "阻值随外加电压或电流的大小而改变的电阻叫（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "固定电阻",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "可变电阻",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "线性电阻",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "非线性电阻",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "电场力在单位时间内所做的功称为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "功耗",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "功率",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电功率",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "耗电量",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电压互感器的一次绕组的匝数（ ）二次绕组的匝数。",
+  "ans": "B",
+  "opts": [{
+    "title": "大于",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "远大于",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "小于",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "远小于",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在整流电路中（ ）输出的直流脉动最小。",
+  "ans": "C",
+  "opts": [{
+    "title": "单相半波整流",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "三相全波整流",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "三相桥式整流",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "单相桥式整流",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在加有滤波电容的整流电路中，二极管的导通总是（ ）180。",
+  "ans": "B",
+  "opts": [{
+    "title": "大于",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "小于",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "等于",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "三极管基极的作用是（ ）载流子。",
+  "ans": "B",
+  "opts": [{
+    "title": "发射",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "输送控制",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "收集",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "放大",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "NPN、PNP三极管作放大时，其发射结（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "均加反向电压",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "均加正向电压",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "NPN管加正向电压、PNP管加反向电压。",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "解决放大器截止失真的方法是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "增大上偏电阻",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "减小集电极电阻RC",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "减小偏置电阻",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "增大下偏电阻",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "在电源对称的三相四线制线路中，负载为星形连接，但负载不对称，则各相负载上的（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "电压对称",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电流对称",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电压和电流都对称",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电压和电流都不对称",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "半导体二极管的正向交流电阻与正向直流电阻两者大小关系为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "一样大",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "一样小",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "前者比后者小",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "前者比后者大",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "输入阻抗高、输出阻抗低的放大器有（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "共射极放大器",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "射极跟随器",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "共基极放大器",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "二极管的主要特性就是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "整流",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "稳压",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "单向导通",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "反向击穿",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "在整流电路的输出端并一个电容，主要是利用电容的（ ）特性，使脉动电压变得较平稳。",
+  "ans": "C",
+  "opts": [{
+    "title": "电压不能突变",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "滤波",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "充放电",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "升压",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "变压器绝缘自投入运行后，在允许条件下运行，其寿命可达（ ）年。",
+  "ans": "B",
+  "opts": [{
+    "title": "25～30",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "20～25",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "15～20",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "10～15",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "测量仪表的基本误差是由于（ ）的原因引起的。",
+  "ans": "A",
+  "opts": [{
+    "title": "制造上",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "读数方法不正确",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "外电场、外磁场干扰",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "环境温度不符要求",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "电感为0.1H的线圈，当其中电流在0.5秒内从10A变化到6A时，线圈上所产生电动势的绝对值为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "4V",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "0.4V",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "0.8V",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "8V",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电流总是从高电位流向低电位，这一结论适用于（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "内电路",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "外电路",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "全电路",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "任何电路",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "当磁铁从线圈中抽出时，线圈中的感应电流产生的磁通方向与磁铁（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "运动方向相反",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "运动方向相同",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "磁通方向相反",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "磁通方向相同",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "若某电源开路电压为120V，短路电流为2A，则负载从该电源获得的最大功率是（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "240W",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "60W",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "600W",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "100W",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "与介质的磁导率无关的物理量是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "磁通",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "磁感应强度",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "磁场强度",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "磁阻",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "在纯电感电路中，电压与电流间的数值关系是（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "i=u\/L",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "I=UL\/ωL",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "I=UL\/L",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "I=Um\/ωL",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "有两个电容器，C1为200V、20μF，C2为250V、2μF，串联后接入400V直流电路中，可能出现的情况是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "C1和C2都被击穿",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "C1损坏",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "C1和C2都正常工作",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "C2损坏",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "判断磁场对通电导体作用力的方向，用（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "左手定则",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "右手定则",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "安培定则",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "楞次定律",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "与参考点有关的物理量是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "电流",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电压",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电位",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电动势",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "关于正弦交流电相量的叙述中（ ）的说法是正确的。",
+  "ans": "A",
+  "opts": [{
+    "title": "模是正弦量的有效值",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "幅角是相位差",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "幅角是相位",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "模是平均值",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "铁心线圈的匝数与其通过的电流的乘积，通常称为（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "磁通",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "磁阻",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "磁压",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "磁通势",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在铁磁物质组成的磁路中，磁阻是非线性的原因是（ ）是非线性的。",
+  "ans": "A",
+  "opts": [{
+    "title": "磁导率",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "磁通",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电流",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "磁场强度",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "互感器是根据（ ）原理制造的。",
+  "ans": "C",
+  "opts": [{
+    "title": "能量守恒",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "能量变换",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电磁感应",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "阻抗变换",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "电子设备防外界磁场的影响一般采用（ ）材料做成磁屏蔽罩。",
+  "ans": "C",
+  "opts": [{
+    "title": "顺磁",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反磁",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "铁磁",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "绝缘",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "线圈中的感应电动势大小与线圈中（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "磁通的大小成正比",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "磁通的大小成反比",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "磁通的变化率成正比",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "磁通的变化率成反比",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "当RLC串联电路呈感性时，总电压与电流间的相位差φ应是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "φ＞0",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "φ＜0",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "φ=0",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "不确定",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "一个1000匝的环形线圈，其磁路的磁阻为500H－1，当线圈中的磁通为2Wb时，线圈中的电流为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "10",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "0.1",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "1",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "5",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "空心线圈的自感系数与（ ）有关。",
+  "ans": "C",
+  "opts": [{
+    "title": "通过线圈电流的方向",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "周围环境温度",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "线圈的结构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "通过线圈电流的时间长短",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "叠加原理适用于（ ）电路。",
+  "ans": "C",
+  "opts": [{
+    "title": "直流",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "交流",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "线性",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "非线性",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "将额定值为220伏、100瓦的灯泡接在110伏的电路中，其实际功率为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "100瓦",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "50瓦",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "25瓦",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "12.5瓦",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "以下列材料分别组成相同规格的四个磁路，磁阻最大的材料是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "铁",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "镍",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "黄铜",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "钴",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "当电源容量一定时，功率因数值越大，说明电路中用电设备的（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "无功功率大",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "有功功率大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "有功功率小",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "视在功率大",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "多芯导线中规定用作保护零线的颜色是（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "红色",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "白色",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "黑色",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "黄绿相间",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "已知网络Ｎ的输入电压u＝50(314t-45°)V，输入电流i=5(314t+30°)A，则该网络的电路性质为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "电阻性",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电感性",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电容性",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "无法判断",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "穿管敷设的绝缘导线的线芯最小截面面积，铜线为（ ）mm2。",
+  "ans": "A",
+  "opts": [{
+    "title": "1.0",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "1.5",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "2.5",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "4",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "穿越线圈回路的磁通发生变化时，线圈两端就产生（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "电磁感应",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "感应电动势",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "磁场",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电磁感应强度",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "提高功率因数的意义在于（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "防止设备损坏",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "提高输电效率和供电设备利用率",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "提高电源电压",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "提高电源容量",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "一般地说，谐波的出现将使电路的功率因数（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "增大",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不变",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "降低",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "以上都不对",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电工仪表上测出的正弦交流电压和电流值均为这些电量的（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "有效值",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "平均值",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "瞬时值",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "最大值",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "为了保障人身安全，在正常情况下，电气设备的安全电压规定为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "12V以下",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "36V以下",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "48V以下",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "6V以下",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "变压器运行中的电压不应超过额定电压的（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "±2.0%",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "±2.5%",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "±5%",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "±10%",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "当电网发生故障时，如有一台变压器损坏，其他变压器（ ）过负荷运行。",
+  "ans": "C",
+  "opts": [{
+    "title": "不允许",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "允许2小时",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "允许短时间",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "允许1小时",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "变压器的铁芯采用相互绝缘的薄硅钢片制造，主要目的是为了降低（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "杂散损耗",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "铜耗",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "涡流损耗",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "磁滞损耗",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电力变压器中短路电压一般为额定电压的（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "2%～4%",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "5%～10%",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "11%～15%",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "15%～20%",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电力系统中以“kWh”作为（ ）的计量单位。",
+  "ans": "B",
+  "opts": [{
+    "title": "电压",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电能",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电功率",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电位",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "当参考点改变时，电路中的电位差是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "变大的",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "变小的",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不变化的",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "无法确定的",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "一个实际电源的电压随着负载电流的减小将（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "降低",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "升高",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不变",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "稍微降低",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "我国交流电的频率为50Hz，其周期为（ ）秒。",
+  "ans": "B",
+  "opts": [{
+    "title": "0.01",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "0.02",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "0.1",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "0.2",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "电路由（ ）和开关四部分组成。",
+  "ans": "A",
+  "opts": [{
+    "title": "电源、负载、连接导线",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "发电机、电动机、母线",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "发电机、负载、架空线路",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电动机、灯泡、连接导线",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "参考点也叫零点位点它是由（ ）的。",
+  "ans": "A",
+  "opts": [{
+    "title": "人为规定",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "参考方向决定的",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电位的实际方向决定的",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "大地性质决定的",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "线圈磁场方向的判断方法用（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "直导线右手定则",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "螺旋管右手定则",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "左手定则",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "右手发电机定则",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "具有短路保护、过载保护和欠压保护功能的低压开关为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "低压开关",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "低压自动开关",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "铁壳开关",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "低压熔断器",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "运动导体切割磁力线而产生最大电动势时，导体与磁力线间的夹角应为（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "0°",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "30°",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "45°",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "90°",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "星形连接时三相电源的公共点叫三相电源的（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "中性点",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "参考点",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "零电位点",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "接地点",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "一电感线圈接到f=50Hz的交流电路中，感抗XL=50Ω，若改接到f=150Hz的电源时，则感抗XL为（ ）Ω。",
+  "ans": "A",
+  "opts": [{
+    "title": "150",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "250",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "10",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "60",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "一电容接到f=50Hz的交流电路中，容抗Xc=240Ω，若改接到f=25Hz的电源时，则容抗Xc为（ ）Ω。",
+  "ans": "D",
+  "opts": [{
+    "title": "80",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "120",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "160",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "480",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "两根平行导线通过同向电流时，导体之间相互（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "排斥",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "产生磁场",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "产生涡流",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "吸引",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "三相电动势的相序为U-V-W称为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "负序",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "正序",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "零序",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "反序",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "在变电所三相母线应分别涂以（ ）色，以示正相序。",
+  "ans": "B",
+  "opts": [{
+    "title": "红、黄、绿",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "黄、绿、红",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "绿、黄、红",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 1,
+  "title": "三相电源正序的顺序是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "U、V、W",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "V、U、W",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "U、W、V",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "W、V、U",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "线圈右手螺旋定则是：四指表示电流方向，大拇指表示磁力线方向。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "短路电流大，产生的电动力就大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电位高低的含义，是指该点对参考点间的电流大小。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "直导线在磁场中运动一定会产生感应电动势。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "最大值是正弦交流电在变化过程中出现的最大瞬时值。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电动势的实际方向规定为从正极指向负极。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "两个同频率正弦量相等的条件是最大值相等。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "在均匀磁场中，磁感应强度B与垂直于它的截面积S的乘积，叫做该截面的磁通密度。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "自感电动势的方向总是与产生它的电流方向相反。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "一段电路的电压Uab=-10V，该电压实际上是a点电位高于b点电位。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "正弦量可以用相量表示，所以正弦量也等于相量。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "没有电压就没有电流，没有电流就没有电压。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "将一根条形磁铁截去一段仍为条形磁铁，它仍然具有两个磁极。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "磁场可用磁力线来描述，磁铁中的磁力线方向始终是从N极到S极。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "在电磁感应中，感应电流和感应电动势是同时存在的;没有感应电流，也就没有感应电动势。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "正弦交流电的周期与角频率的关系是互为倒数。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "正弦交流电中的角频率就是交流电的频率。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "负载电功率为正值表示负载吸收电能，此时电流与电压降的实际方向一致。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "若干电阻串联时，其中阻值越小的电阻，通过的电流也越小。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电阻并联时的等效电阻值比其中最小的电阻值还要小。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "对称三相Y接法电路，线电压最大值是相电压有效值的3倍。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电阻两端的交流电压与流过电阻的电流相位相同，在电阻一定时，电流与电压成正比。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "相线间的电压就是线电压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "相线与零线间的电压就叫相电压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "交流电的超前和滞后，只能对同频率的交流电而言，不用频率的交流电，不能说超前和滞后。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "纯电感线圈直流电来说，相当于短路。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "三相对称电源接成三相四线制，目的是向负载提供两种电压，在低压配电系统中，标准电压规定线电压为380V，相电压为220V。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "在负载对称的三相电路中，无论是星形连接，还是三角形连接，当线电压U和线电流I及功率因数已知时，电路的平均功率为P=UIcosφ。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "三相电流不对称时，无法由一相电流推知其他两相电流。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "每相负载的端电压叫负载的相电压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "降低功率因数，对保证电力系统的经济运行和供电质量十分重要。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "三相电动势达到最大值的先后次序叫相序。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "从中性点引出的导线叫中性线，当中性线直接接地时称为零线，又叫地线。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "从各相首端引出的导线叫相线，俗称火线。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "有中性线的三相供电方式叫三相四线制，它常用于低压配电系统。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "不引出中性线的三相供电方式叫三相三线制，一般用于高压输电系统。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "线圈本身的电流变化而在线圈内部产生电磁感应的现象，叫做互感现象。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "一个线圈电流变化而在另一个线圈产生电磁感应的现象，叫做自感现象。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "纯电阻单相正弦交流电路中的电压与电流，其瞬间时值遵循欧姆定律。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "在铜导线中参加导电的带电粒子有空穴和自由电子两种。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电路两点之间的电位差就是这两点之间的电压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电路在开路状态下，负载电流为零，所以电源的端电压也为零。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "在串联电阻的分压电路中，电阻值大者，其两端分得的电压就越高。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "在并联电阻的分流电路中，电阻值大者，分得的电流值就越大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "用交流电压表测得交流电压是220V，则表明此交流电压的最大值是220V。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "磁感应强度B是一个与周围介质无关的物理量。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "发生电气起火时，应立即切断电源，然后用灭火器材灭火。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "二极管只要加正向电压就一定导通。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "三极管具有电流放大作用，所以也具有能量放大作用。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "没有电压就没有电流，没有电流就没有电压。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "如果把一个24V的电源正极接地，则负极的电位是-24V。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电路中两点的电位分别是V1=10V，V2=-5V，这1点对2点的电压是15V。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "有两个频率和初相位不同的正弦交流电压u1和u2，，若它们的有效值相同，则最大值也相同。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "视在功率就是有功功率加上无功功率。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "人们常用“负载大小”来指负载电功率大小，在电压一定的情况想，负载大小是指通过负载的电流的大小。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "通过电阻上的电流增大到原来的2倍时，它所消耗的电功率也增大到原来的2倍。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "加在电阻上的电压增大到原来的2倍时，它所消耗的电功率也增大到原来的2倍。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电容C是由电容器的电压大小决定的。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "三相负载作星形连接时，线电流等于相电流。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "三相负载作三角形连接时，线电压等于相电压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "在三相四线制低压供电网中，三相负载越接近对称，其中性线电流就越小。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电器设备功率大，功率因数当然就大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "铁芯内部环流称为涡流，涡流所消耗的电功率，称为涡流损耗。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "段电路的电压Uab=-10V，该电压实际上是a点电位高于b点电位。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "熔断器是一种控制设备，当短路电流或过负荷电流流过时，它将切断电路。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "闸刀开关可以用于分断堵转的电动机。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "低压断路器具有失压保护的功能。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "电流互感器在运行中，其二次侧不得开路。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "电压互感器二次侧必须加装熔断器，而电流互感器二次侧严禁安装。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "变压器原、副绕组电流的大小完全由副绕组所接负载的大小决定。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "刀开关、铁壳开关、组合开关的额定电流要大于实际电路电流。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "用自动空气开关作机床电源引入开关，就不需要再安装熔断器作短路保护。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "保护接地的接地电阻不得大于4欧姆。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "电气系统的接地有保护接地和工作接地，其中保护接地的主要目的是为了保障人身的安全。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "为防止触电事故，三相三线制配电系统宜采用保护接地措施。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "在半导体中，只有自由电子能传导电流。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "三极管的发射结正偏时，它必须处于放大状态。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "一台额定电压为220V的交流接触器在交流220V和直流220V的电源上均可使用。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "一个三相四线制供电线路中，若相电压为220V，则线电压为311V。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "低压的三相四线制配电系统中，变压器中心点的良好接地已能起到防止触电的作用。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "高压隔离开关的功能主要是隔离高压电源，保证其他电气设备的安全检修。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "因为高压隔离开关没有专门的灭弧装置，所以不能用来通断任何回路。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 1,
+  "title": "接触器除通断电路外，还具备短路和过载的保护作用。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "直流接触器比交流接触器更适用于频繁操作的场合。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}];
+
+module.exports = djtd;

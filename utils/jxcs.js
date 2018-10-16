@@ -1,0 +1,3129 @@
+var jxcs = [{
+  "type": 1,
+  "degree": 2,
+  "title": "有确定的相对运动构件的组合成为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "机床",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "机械",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "带传动是依靠（ ）来传递运动和动力的。",
+  "ans": "C",
+  "opts": [{
+    "title": "主轴的动力",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "主动轮的转矩",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "带与带轮间的摩擦力",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "机床的主轴是机床的（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "动力部分",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "工作部分",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "传动部分",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "摩擦轮传动一般不应用于（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "运转中变速变向",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "过载保护装置中",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "传递较大转矩",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "普通V带传动中V带的稧角α是（ ）度 。",
+  "ans": "C",
+  "opts": [{
+    "title": "38",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "36",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "40",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "带传动中小带轮上的包角越大，传动能力就越（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "大",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "小",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "无关",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "V带传动要求小带轮的包角大于（ ）度。",
+  "ans": "B",
+  "opts": [{
+    "title": "100",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "120",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "80",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "带速合理的范围通常控制在（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "5~25m\/s",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "12~15m\/s",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "15~50m\/s",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "普通螺纹的公称直径应该是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "大径",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "中径",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "小径",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "单向受力的螺旋传动机构一般为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "三角形螺纹",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "梯形螺纹",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "锯齿形螺纹",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "下列标记中，表示普通细牙螺纹的是（ ） 。",
+  "ans": "B",
+  "opts": [{
+    "title": "M30",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "M20×1.5",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "Tr40×7",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "下列标记中，表示普通粗牙螺纹的是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "M30",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "M20×1.5",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "Tr40×7",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "下列标记中，表示梯形螺纹的是（ ） 。",
+  "ans": "C",
+  "opts": [{
+    "title": "M30",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "M20×1.5",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "Tr40×7",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "链传动要求速度高噪音小时宜选用（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "滚子链",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "多排链",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "齿形链",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "渐开线上各点的齿形角不相等，基圆齿形角（ ）零。",
+  "ans": "B",
+  "opts": [{
+    "title": "大于",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "等于",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不等于",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "形成齿轮渐开线的圆是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "分度圆",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "齿根圆",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "基圆",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "满足渐开线齿廓啮合特性的是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "传动的可分离性",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "承载能力强",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "传动比大",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "直齿圆柱齿轮基本参数是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "m,z",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "D,P",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "S,E",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "平面连杆机构的急回特性系数K（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": ">1",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "<1",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "=1",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "=0",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "铰链四杆机构中，不与机架相连的构件称为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "曲柄",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "连杆",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "连架杆",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "摇杆",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "传动要求速度不高、承载能力较大的场合常应用的从动件形式为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "尖顶式",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "滚子式",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "平底式",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "曲面式",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "以下机构中，（ ）属于无级变速机构。",
+  "ans": "C",
+  "opts": [{
+    "title": "滑移齿轮变速机构",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "塔齿轮变速机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "分离锥轮式变速机构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "齿式棘轮机构",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "电影放映机的卷片机构属于（ ） 。",
+  "ans": "B",
+  "opts": [{
+    "title": "凸轮机构",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "槽轮机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "棘轮机构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "拉键变速机构",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "普通平键连接的应用特点是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "依靠侧面传递转矩，对中性良好，装拆方便",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "能实现轴上零件的轴向定位",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不适用于高速.高精度和承受变载冲击的场合",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "多用于轻载或辅助性连接",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "用来传递动力或转矩的销称为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "定位销",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "连接销",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "安全销",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "整体式滑动轴承（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "结构简单，制造成本低",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "装拆方便",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "磨损后可调整间隙",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "比对开式滑动轴承应用广泛",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "同时承受较大的径向载荷和轴向载荷，且轴向载荷很大时，宜选用（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "推力调心滚子轴承",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "四点接触球轴承",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "圆锥滚子轴承",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "推力球轴承与调心（球或滚子）轴承的组合",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "外啮合齿轮泵的特点有（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "结构简单，流量调节方便",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "进出油口可以互换",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "出油口直径较进油口直径小",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "齿轮轴上无不平衡力存在",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "双作用叶片泵的（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "转子和定子的几何中心不重合",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转子转一周，每个密封空间完成二次吸油和二次压油",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "作用在转子上的油压作用力是不平衡的",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "作用在转子上的油压作用力是平衡的",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "液压缸的排气阀应安装在油缸的（ ）位置。",
+  "ans": "A",
+  "opts": [{
+    "title": "最高",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "最低",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "任意",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "中间",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "减压阀（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "进油口压力较大时，出油口压力低于进油口压力",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不能作为稳压阀",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不能作为顺序阀",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "溢流阀（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "经常用作系统安全阀",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不能作为稳压阀",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不能作为背压阀",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在节流调速回路中，通过节流阀的流量（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "不受负载影响",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "仅受开口大小控制",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不需溢流阀分流",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "不仅受开口大小控制，而且与其前后压差有关",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在液压传动系统中，油泵为（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "动力元件",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "执行元件",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "控制元件",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "辅助元件",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在液压传动系统中，将机械能转换为液压能的元件为（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "油泵",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "油管",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "压力控制阀",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "油",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "下列关于液压马达和液压泵，哪一叙述是不正确的（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "液压泵就是液压马达",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "液压泵是动力元件，液压马达是执行元件",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "液压泵是将机械能转换为压力能",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "液压马达是将压力能转换为机械能",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "液压传动的工作介质是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "油管",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "油箱",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "液压油",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "气体",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "流量连续性方程是（ ）在流体力学中的表达形式。",
+  "ans": "C",
+  "opts": [{
+    "title": "能量守恒定律",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "动量定理",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "质量守恒定律",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "其他",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "伯努力方程是（ ）在流体力学中的表达形式。",
+  "ans": "A",
+  "opts": [{
+    "title": "能量守恒定律",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "动量定理",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "质量守恒定律",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "其他",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "温度对粘度的影响是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "没有影响",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "影响不大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "温度升高，粘度降低",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "温度升高，粘度显著升高",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "液体的静压力方向（ ），其内部某一点的静压力大小与其作用方向无关。",
+  "ans": "A",
+  "opts": [{
+    "title": "永远沿着作用面内法线方向",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "有时候沿着切线方向",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "具有不确定性",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "液体内部的静压力大小只与深度有关，其值随着深度增加而（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "线性地减小",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "线性地增大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "抛物线性减小",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "抛物线性增大",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "一支密闭的玻璃管中存在着真空度，下面那个说法是正确的（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "管内的绝对压力比大气压力大",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "管内的绝对压力比大气压力小",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "管内的相对压力为正值",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "管内的相对压力等于零",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "液压泵在额定转速和额定压力下的输出流量称为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "实际流量",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "理论流量",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "额定流量",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在没有泄漏的情况下，根据泵的几何尺寸计算而得到的流量称为（ ），它等于排量和转速的乘积。",
+  "ans": "B",
+  "opts": [{
+    "title": "实际流量",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "理论流量",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "额定流量",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "液压泵的理论输入功率（ ）它的实际输出功率。",
+  "ans": "A",
+  "opts": [{
+    "title": "大于",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "等于",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "小于",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "对于液压泵来说，在正常工作条件下，按实验标准规定连续运转的最高压力称之为的（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "额定压力",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "最高允许压力",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "工作压力",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "（ ）是构成机械的最小单元，也是制造机械时的最小单元。",
+  "ans": "B",
+  "opts": [{
+    "title": "机器",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "零件",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "构件",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "机构",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "一般飞轮应布置在转速（ ）的轴上。",
+  "ans": "B",
+  "opts": [{
+    "title": "较低",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "较高",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "适中",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在下列平面四杆机构中，有急回性质的机构是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "双曲柄机构",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "对心曲柄滑块机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "摆动导杆机构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "转动导杆机构",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在下列平面四杆机构中，（ ）存在死点位置。",
+  "ans": "C",
+  "opts": [{
+    "title": "双曲柄机构",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "对心曲柄滑块机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "曲柄摇杆机构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "转动导杆机构",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "曲柄摇杆机构的压力角是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "连杆推力与运动方向之间所夹的锐角",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "连杆与从动摇杆之间所夹锐角",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "机构极位夹角的余角",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "曲柄与机架共线时，连杆与从动摇杆之间所夹锐角",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "带传动是借助带和带轮间的（ ）来传递动力和运动的。",
+  "ans": "B",
+  "opts": [{
+    "title": "啮合",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "磨擦",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "粘接",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "能实现间歇运动的机构是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "曲柄摇杆机构",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "双摇杆机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "槽轮机构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "齿轮机构。",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "链传动属于（ ）传动。",
+  "ans": "B",
+  "opts": [{
+    "title": "摩擦传动",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "啮合传动",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "两者均不是",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "曲柄摇杆机构的死点发生在（ ）位置。",
+  "ans": "C",
+  "opts": [{
+    "title": "主动杆与摇杆共线",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "主动杆与机架共线",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "从动杆与连杆共线",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "从动杆与机架共线",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "飞轮的作用是（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "贮存和输出机械能",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "贮存和输出转速",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "回转件的平衡",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "加快原动件的转速",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在带传动中（ ） ，带的应力最大值发生在带（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "进入大带轮处",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "离开大带轮处",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "进入小带轮处",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "离开小带轮处。",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "为了使带与轮槽更好的接触，轮槽楔角应（ ）Ｖ带截面的楔角。",
+  "ans": "C",
+  "opts": [{
+    "title": "小于",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "大于",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "等于",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "链传动是借助链和链轮间的（ ）来传递动力和运动的。",
+  "ans": "C",
+  "opts": [{
+    "title": "磨擦",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "粘接",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "啮合",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "（ ）是链传动承载能力、链及链轮尺寸的主要参数。",
+  "ans": "B",
+  "opts": [{
+    "title": "链轮齿数",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "链节距",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "链节数",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "中心距",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "一对渐开线直齿圆柱齿轮正确啮合的条件是（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "两齿轮的模数和齿距分别相等",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "两齿轮的齿侧间隙为零",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "两齿轮的齿厚和齿槽宽分别相等",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "两齿轮的模数和压力角分别相等",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "自行车车轮的前轴属于（ ）轴。",
+  "ans": "C",
+  "opts": [{
+    "title": "传动轴",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转轴",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "固定心轴",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "转动心轴",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "自行车的中轴属于（ ）轴。",
+  "ans": "B",
+  "opts": [{
+    "title": "传动轴",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转轴",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "固定心轴",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "转动心轴",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "自行车的后轴属于（ ）轴。",
+  "ans": "C",
+  "opts": [{
+    "title": "传动轴",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转轴",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "固定心轴",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "转动心轴",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "渐开线的形状取决于（ ）直径。",
+  "ans": "C",
+  "opts": [{
+    "title": "节圆",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "基圆",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "分度圆",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "齿顶圆",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "（ ）是齿轮最主要的参数 。",
+  "ans": "B",
+  "opts": [{
+    "title": "模数",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "压力角",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "分度圆",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "齿数",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "国家标准规定，标准渐开线齿轮的分度圆压力角α=（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "35°",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "30°",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "25°",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "20°",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "不能用于传动的螺纹为（ ）螺纹。",
+  "ans": "A",
+  "opts": [{
+    "title": "三角形",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "矩形",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "梯形",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "锯齿形",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "普通螺纹的公称直径是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "螺纹的中径",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "螺纹的小径",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "螺纹的大径",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "转轴承受（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "扭矩",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "弯矩",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "扭矩和弯矩",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在液压系统中，压力通过液体传到连通器中的任意点，各个方向的压力都（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "相等",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不相等",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不确定",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "普通平键传递扭矩是靠键的（ ）",
+  "ans": "C",
+  "opts": [{
+    "title": "顶面",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "底面",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "侧面",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "端面",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "带传动中，υ1为主动轮圆周速度，υ2为从动轮圆周速度，υ为带速，这些速度之间存在的关系是（ ）",
+  "ans": "B",
+  "opts": [{
+    "title": "υ1=υ2=υ",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "υ1>υ>υ2",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "υ1<υ<υ2",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "υ1=υ>υ2",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "带传动正常工作时不能保证准确的传动比是因为（ ）",
+  "ans": "A",
+  "opts": [{
+    "title": "带存在弹性滑动",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "带容易变形和磨损",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "带在带轮上打滑",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "带的材料不符合虎克定律",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在机械中安装飞轮，可以（ ）",
+  "ans": "A",
+  "opts": [{
+    "title": "减小周期性速度波动",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "消除周期性速度波动",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "减小非周期性速度波动",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "消除非周期性速度波动",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "销连接的正确应用是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "定位销通常同时用于传递转矩",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "不能用安全销传递横向力",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "定位销使用的数量不得少于2个",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "不允许在安全上切出槽口",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "盲孔且须经常拆卸的销连接宜采用（ ）。",
+  "ans": "D",
+  "opts": [{
+    "title": "圆柱销",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "圆锥销",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "内螺纹圆柱销",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "内螺纹圆锥销",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "下列机构中具有急回特性的是（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "曲柄摇杆机构",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "双曲柄机构",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "双摇杆机构",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "对心曲柄滑块机构",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "曲柄摇杆机构中曲柄的长度（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "最长",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "最短",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "大于摇杆的长度",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "大于连杆的长度",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "可以承受不大的单方向的轴向力，上、下两面是工作面的连接是（ ） 。",
+  "ans": "B",
+  "opts": [{
+    "title": "普通平键连接",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "契键连接",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "半圆连接",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "花键连接",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "矩形齿花键连接要求定心精度高时，应采用（ ） 。",
+  "ans": "B",
+  "opts": [{
+    "title": "大径定心",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "小径定心",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "齿侧（键宽）定心",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "自动调心",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "既支承回转零件又传递动力的轴称（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "心轴",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "传动轴",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "转轴",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "结构简单、定位可靠、能承受较大轴向力的轴向固定形式是 （ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "轴肩或轴环固定",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "弹性挡圈固定",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "轴套或圆螺母固定",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "圆锥销固定",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "在轴瓦内表面开油槽的不正确做法是（ ） 。",
+  "ans": "D",
+  "opts": [{
+    "title": "油槽开不通",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "油槽与油孔相通",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "油槽长度取轴瓦轴向宽度的80％",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "油槽开在轴瓦承受载荷的位置",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "用于重要、高速、重载机械中的滑动轴承的润滑方法，宜采用（ ） 。",
+  "ans": "D",
+  "opts": [{
+    "title": "滴油润滑",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "油环润滑",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "飞溅润滑",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "压力润滑",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "载荷小而平稳，仅受径向载荷，转速高时应选用（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "深沟球轴承或调心球轴承",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "圆锥滚子轴承",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "圆柱滚子轴承",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "角接触球轴承",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "万向联轴器是（ ） 。",
+  "ans": "B",
+  "opts": [{
+    "title": "刚性联轴器",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "无弹性元件挠性联轴器",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "非金属弹性元件挠性联轴器",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "刚性安全离合器",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "一个视图不能唯一确定物体的形状，必须由两个或两上以上的视图才能唯一确定物体的形状。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "视图中的每个封闭线框，通常都是物体的一个表面（平面或曲面）的投影。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "一般说来，产品在设计过程中总是先有零件图才有装配图的。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "一张完整的零件图只要包含图形、尺寸和标题栏就可以了。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "投影方向与投影面相垂直的平行投影法称为正投影法。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "为表示物体完整的形状，必须从几个方向进行投射，画出几个视图，通常用三个视图表示。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "直线上任意一点的投影不一定在该直线的同面投影上。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "用平面切割立体，则平面与立体表面的交线称为截交线，该平面称为截平面。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "相贯线一般为封闭的空间曲线，特殊情况是平面曲线或直线。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "相贯线是两立体表面的共有线，相贯线上的点是两立体表面的共有点。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "制图比例1:2指的是图中图形与实际机件相应要素的线性尺寸之比放大一倍。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "每个尺寸都由尺寸界线、尺寸线和尺寸数学三个要素组成，",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "零件图反映了设计者的意图，表达了机器(或部件)对该零件的加工要求，它是制造和检验零件的依据。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "表示整台机器的组成部分、各组成部分的相对位置及连接、装配关系的图样称为总装图。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "装配图只需要注出机器或部件的规格(性能)尺寸、外形尺寸、安装尺寸就可以了。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "装配图中需对各种零部件进行编号并在明细栏中依次填写各种零件的编号(序号)及相应名称、数量、材料等。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "摩擦式棘轮机构利用摩擦力使棘轮作步进运动，不能承受较大的载荷，否则将产生滑动。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "具有周期停歇间隔的单向运动称为步进运动。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "垫圈的作用是增大被联接件的支承面，降低支承面的压强，防止拧紧螺母时擦伤被联接件的表面。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "螺纹联接是利用螺旋副自锁特性，将零件联成一体的结构。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "螺纹联接有自锁特性，工作时不需要防止松动。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "普通V带的传动能力是平带的传动能力强3倍。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "普通V带的两侧面是工作面。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "普通V带型号中，Y型的截面尺寸最大，E型的截面尺寸最小。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "V带与带轮间用两侧面之间的摩擦力来传递运动和动力的。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "V带传动中带轮直径不变，中心距越大小带轮包角越小。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "V带传动大小带轮的槽角Φ必须相等。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "带传动中带弹性变形引起的滑动称为弹性滑动",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "链传动能保持瞬时传动比恒定。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "链传动能在低速、重载、油污 高温条件下。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "要求传动平稳、噪声小、能承受冲击的链传动，可用齿形链。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "滚子链可用节距和节数来表示其长度。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "齿轮传动能保持瞬时传动比恒定。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "基圆越大，渐开线越弯曲。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "标准齿轮的齿形角和模数都在分度圆上。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "渐开线齿轮只要模数相等，就能保证正确啮合。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "齿轮的模数越大轮齿越大，承载能力越小。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "相邻两齿同侧齿廓间在任意圆的距离，称为该圆的齿距。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "相邻两齿同侧齿廓间的距离，称为该圆的模数。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "在曲柄摇杆机构中，摇杆两极限位置的夹角称为极位夹角。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "铰链四杆机构中的最短杆就是曲柄。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "偏心轮机构的工作原理与曲柄滑块机构的工作原理相同。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "急回特性系数K值愈大，机构的急回特性愈显著；当K＝1时，机构无急回特性。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "偏心轮机构不存在死点位置。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "铰链四杆机构各杆的长度分别为a＝175mm，b＝150mm，c＝135mm，d＝190mm，分别以不同杆件作为机架，该机构一定能构成三种基本类型的铰链四杆机构。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "凸轮机构是高副机构，凸轮与从动件接触处难以保持良好的润滑而易磨损。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "采用等加速等减速运动规律，从动件在整个运动过程中速度不会发生突变，因而没有冲击。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "平面连杆机构各构件的运动轨迹一定在同一平面或相互平行的平面内。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "键连接与销连接均属于可拆卸连接。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "平键、半圆键和花键均以键的两侧面实现周向固定和传递转矩。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "B型普通平键在键槽中不会发生轴向移动，所以应用最广。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "半圆键多用于锥形轴的辅助性连接。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "仅发生滑动摩擦的轴承称为滑动轴承，仅发生滚动摩擦的轴承称为滚动轴承。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "滑动轴承工作时的噪声和振动小于滚动轴承。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "容积泵的排量取决于密封工作腔容积变化的大小",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "齿轮泵工作时，轮齿进入啮合的一侧是吸油区",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "液压缸活塞运动速度仅取决于输入流量的大小",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "单向阀可用来改变液流流动方向，关闭或接通油路",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "先导式溢流阀中，调整主阀中弹簧的预紧力，就可调节系统压力的大小",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "节流阀流量受负载变化的影响较大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "液压系统压力取决于流量大小，流量大则压力高。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 3,
+  "title": "液压缸活塞运动速度只取决于输入流量的大小，与压力无关。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 3,
+  "title": "液体流动时，其流量连续性方程是能量守恒定律在流体力学中的一种表达形式。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 3,
+  "title": "理想流体伯努力方程的物理意义是：在管内作稳定流动的理想流体，在任一截面上的压力能、势能和动能可以互相转换，但其总和不变。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 3,
+  "title": "雷诺数是判断层流和紊流的判据。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 3,
+  "title": "流量可改变的液压泵称为变量泵。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 3,
+  "title": "定量泵是指输出流量不随泵的输出压力改变的泵。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "静滑动摩擦系数与动摩擦系数相等。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "静滑动摩擦力为一定值。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "销联接在受到剪切的同时还要受到挤压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "合金钢是塑性材料。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "在四杆机构中，曲柄是最短的连架杆。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "压力角越大对传动越有利。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "在曲柄摇杆机构中，空回行程比工作行程的速度要慢。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "偏心轮机构是由曲柄摇杆机构演化而来的。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "曲柄滑块机构是由曲柄摇杆机构演化而来的。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "减速传动的传动比i＜1。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "Ｙ型Ｖ带所能传递的功率最大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "在Ｖ带传动中，其他条件不变，则中心距越大，承载能力越大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "带传动一般用于传动的高速级。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "带传动的小轮包角越大，承载能力越大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "选择带轮直径时，直径越小越好。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "链传动一般用于传动的高速级。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "链传动是一种摩擦传动。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "滚子链的节距p越大，则承载能力越大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "渐开线上各点的压力角不同，基圆上的压力角最大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "基圆直径越大渐开线越平直。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "只承受弯矩而不受扭矩的轴，称为心轴。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "圆柱销与销孔之间必须采用过盈配合。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "挤压就是压缩。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "仅传递扭矩的轴是转轴。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "用联轴器时无需拆卸就能使两轴分离。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "用离合器时无需拆卸就能使两轴分离。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "凸缘联轴器属于固定式刚性联轴器。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "花键联接只能传递较小的扭矩。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}];
+
+module.exports = jxcs;

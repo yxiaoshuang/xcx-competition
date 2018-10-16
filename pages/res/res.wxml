@@ -1,0 +1,22 @@
+<view class='qs_bg' style='color:white;text-align:center'>
+
+    <view style='height:200rpx;'></view>
+    <view class='res_bg'>
+      <view style='line-height:78rpx;margin0 auto;'>{{stepObj.title}}</view>
+      <view style='font-size:32rpx;margin:0 auto;line-height:70rpx;margin-top:60rpx;'>
+        <view style=''>
+          <text wx-if="{{issuccess}}">恭喜你，挑战成功</text>
+          <text wx-if="{{!issuccess}}">很遗憾，挑战失败</text>
+        </view>
+        <view style=''>{{score_rmk}}</view>
+      </view>
+    </view>
+    
+    <view style='position:relative;margin:60rpx auto;width:150px;' bindtap='goClick'>
+        <image src='../../assets/img/btn_go.png' style='width:150px;height:80rpx;margin:0 auto;'></image>
+        <view style='position:absolute;color:white;font-size:32rpx;left:44px;line-height:80rpx;top:0rpx' >
+          <view wx-if="{{issuccess}}">继续挑战</view>
+          <view wx-if="{{!issuccess}}">重新挑战</view>
+        </view>
+    </view>
+</view>

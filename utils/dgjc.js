@@ -1,0 +1,1657 @@
+var dgjc = [{
+  "type": 3,
+  "title": "电力拖动系统中，生产机械负载不一定是反抗运动的。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "若要改变串励直流电动机的转向，把外施电压的极性调换即可。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机运行时，若轴上所带的机械负载越大，则转差率也越大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机的电磁转矩与转子电流成正比。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相笼型异步电动机的最佳调速方法是变频调速。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机减压启动各种方法的相同点是：Ist<\/sub>、Tst<\/sub>均下降。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "铁磁材料有磁饱和现象，空气也有磁饱和现象。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "电机负荷变化时，可变损耗也随之变化，当可变损耗等于不变损耗时，电机的效率最高，这一规律适合其他形式的电机。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他（并）励直流电动机电枢回路串电阻的人为机械特性是一组平行直线。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "并励发电机可以自励发电，这与电机的转向、励磁回路的电阻大小没有关系。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他（并）励直流电动机启动电流大，启动转距大，三相异步感应电机启动电流大，启动转距却不大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "他励直流电动机弱磁后不一定升速，要视负载和磁场情况而定。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机回馈制动时，转速一定高于理想空载转速。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "电枢回路串电阻和降压直流电机转速，但后者经济性能好。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "绕线式异步电机转子额定电压指的是指电机额定运行时的转子电压。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "因为有气隙存在，异步电机励磁电流比变压器大。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "把机械能转变为直流电能的电机是直流电动机。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "直流发电机电枢线圈中产生的感应电势是交变的。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "直流电动机电枢线圈中的电流方向是不变的。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "直流电机主磁极的作用是在电枢表面外的气隙空间里产生一定形状分布的气隙磁密。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "直流电机换向极绕组里流的是电枢电流，所以其导线截面积较大，匝数较少。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "我们称（T-TL<\/sub>）为动转矩，动转矩等于零时，系统处于恒转速运行的稳态。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "位能性恒转矩负载的特点是转矩的绝对值大小是恒定不变的，转矩的性质是阻碍运动的制动性转矩。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "反抗性恒转矩负载的特点是转矩的绝对值大小是恒定不变的，转矩的性质是阻碍运动的制动性转矩。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "泵类负载的特点是其转矩的大小与转速的平方成正比，即TL<\/sub>正比于n2<\/sup>。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "关于额定功率，对直流电动机来说，是指电刷端的输出电功率。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "关于额定功率，对直流电动机来说，是指它的转轴上输出的机械功率。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "励磁电流由其他直流电源单独供给的称他励直流电机。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "直流电机运行时，电枢元件在磁场中运动产生切割电动势。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "已经制造好的电机，CT<\/sub>是一常数，因此T正比于每极磁通Φ和转速n。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "一台他励直流电动机的参数确定后，稳态运行时各物理量的大小及方向都取决于负载。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机的空载损耗Po<\/sub>包括机械摩擦损耗Pm<\/sub>和铁损耗PFe<\/sub>。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "电枢两端加额定电压、气隙每极磁通量为额定值、电枢回路不串电阻时的机械特性，称为固有机械特性。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机固有机械特性的斜率β较小，故称为软特性。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机电枢回路串电阻的人为机械特性是一组放射形直线，都过理想空载点。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机改变电枢电压的人为机械特性是一组平行直线。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机改变每极磁通的人为机械特性是一组平行直线。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机直接起动时，由于IS<\/sub>、TS<\/sub>太大，对电机安全运行不利，一般不允许。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "他励直流电动机拖动负载起动的一般条件是：①IS<\/sub>≤(2~2.5)IN<\/sub>；②TS<\/sub>≥TL<\/sub>。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机电枢回路串电阻调速时，电动机转速可以连续调节，为无级调速。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "他励直流电动机降低电源电压调速时，如果拖动恒转矩负载，电动机运行于不同的转速上时，电动机电枢电流是不变的。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机降低电源电压调速时，电动机转速可以连续调节，为无级调速。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机弱磁调速时，如果拖动恒转矩负载，电动机运行于不同的转速上时，电动机电枢电流是不变的。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "静差率S越大，转速的相对稳定性越好，负载波动时，转速变化也越小。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "实际运行时电动机除了运行于T与n同方向的电动运行状态之外，经常还运行在T与n反方向的制动状态。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "他励直流电动机只要运行于机械特性第Ⅱ象限时，就是运行在能耗制动状态。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "他励直流电动机只有在拖动位能性负载时才可能运行在倒拉反转制动状态。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "他励直流电动机回馈制动时，T与n反向，|n|>|n0<\/sub>|。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "为了降低三相异步电动机定子铁心里的铁损耗，定子铁心用0.5mm厚的硅钢片叠压而成，在硅钢片的两面应涂上绝缘漆。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机的额定电压是指额定运行状态下加在定子绕组上的相电压。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "通常定义旋转磁场转速n1<\/sub>与电机转速n之差与电机转速n之比为异步电动机的转差率s。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相绕线式异步电动机转子回路串电阻可以增大起动转矩，串入电阻值越大，起动转矩也越大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机运行时的功率因数总是滞后的，且永远小于1。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "电动机拖动的负载越重，电流则越大，因此只要是空载，三相异步电动机就都可以直接起动了。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相鼠笼式异步电动机直接起动时，起动电流很大，为了避免起动过程中因过大电流而烧毁电动机，轻载时需要采取降压起动。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机电动状态的特点是：T与n同向，01。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机改变磁极对数调速仅适用于三相鼠笼式异步电动机。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "对于一般的鼠笼式异步电动机，如拖动的是恒转矩负载，降压调速范围很窄，没有多大实用价值。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "绕线式异步电动机转子回路串电阻调速，拖动恒转矩负载，所串电阻越大，转速越高。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "正在运行的三相异步电动机突然一相断路，电动机会立即停下来。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "提升位能负载时的工作点在第一象限内，而下放位能负载时的工作点在第四象限内。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机的最大电磁转矩Tmax<\/sub>的大小与转子电阻r2<\/sub>阻值无关。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机进行降压起动时，与直接起动相比，起动电流变小，起动转矩变大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "转差率S是分析异步电动机运行性能的一个重要参数，当电动机转速越快时，则对应的转差率也就越大。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "改变电流相序可以改变三相旋转磁通势的转向。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机的转子旋转方向与旋转磁场旋转的方向相反。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "如交流电动机在正常工作时采用Y接线，那么就可采用Y-△起动。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "只要任意调换三相异步电动机的两个电源接线，就可以改变电动机的转向。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电机当转子不动时，转子绕组电流的频率与定子电流的频率相同。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相绕线式异步电动机转子串电阻分级起动，若仅考虑起动电流和起动转矩的因素，那么级数越多越好。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "长期闲置的异步电动机，在使用时可以直接起动。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "三相异步电动机采用熔丝保护时，当三相异步电动机的电流达到熔丝的额定电流时，熔丝立即熔断。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "单叠绕组形成的支路数比同极数的单波绕组形成的支路数多。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "在电枢绕组中串接的电阻愈大，起动电流就愈小。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "起动时的电磁转矩可以小于负载转矩。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "title": "静差率s越大，转速的相对稳定性越好，负载波动时，转速变化也越小。",
+  "ans": "B",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 3,
+  "degree": 2,
+  "title": "三相异步电动机改变磁极对数调速仅适用于三相鼠笼式异步电动机。",
+  "ans": "A",
+  "opts": [{
+    "title": "对",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "错",
+    "value": "B",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "异步电机0L<\/sub>正比n2<\/sup>。",
+  "ans": "C",
+  "opts": [{
+    "title": "位能性恒转矩负载",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反抗性恒转矩负载",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "泵类负载",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "恒功率负载",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "（ ）不属于直流电机的定子部分",
+  "ans": "D",
+  "opts": [{
+    "title": "主磁极",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "换向极",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电刷装置",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "换向器",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "（ ）的励磁绕组与电枢绕组串联，电枢电流也是励磁电流。",
+  "ans": "A",
+  "opts": [{
+    "title": "串励直流电机",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "他励直流电机",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "并励直流电机",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "复励直流电机",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "他励直流电动机的空载损耗Po<\/sub>包括机械摩擦损耗Pm<\/sub>和（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "电磁功率",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "铁损耗",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "铜损耗",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "附加损耗",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "他励直流电动机电源反接制动的机械特性在第（ ）象限。",
+  "ans": "B",
+  "opts": [{
+    "title": "Ⅰ",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "Ⅱ",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "Ⅲ",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "Ⅳ",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "（ ）不属于三相异步电动机的定子部分。",
+  "ans": "D",
+  "opts": [{
+    "title": "机座",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "定子铁心",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "定子绕组",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "转轴",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "一台两极异步电动机，转速为2700r\/min，电源频率为50Hz，则转差率为（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "0",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "1",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "0",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "0",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机降低定子端电压的人为机械特性，其同步速n1<\/sub>与U1<\/sub>大小（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "正比",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反比",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "无关",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "有关",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "三相异步电动机电源反接制动的机械特性位于第（ ）象限。",
+  "ans": "B",
+  "opts": [{
+    "title": "Ⅰ",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "Ⅱ",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "Ⅲ",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "Ⅳ",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "三相笼型异步电动机启动电流大的原因是（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "电压过高",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "负载过重",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "转差率大",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "电压过低",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相六极异步电动机，接到频率为50Hz的电网上额定运行时，其转差率SN<\/sub>=0.04，额定转速为（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "1000转\/分",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "960转\/分",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "40转\/分",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "0转\/分",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "有一台两极绕线式异步电动机要把转速调上去，下列哪一种调速方法是可行的（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "变极调速",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转子中串入电阻",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "变频调速",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "D.降压调速",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机采用Y-△换接起动可使起动电流降低到直接起动时的（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "1\/2",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "1\/3",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "1\/4",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "1\/5",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "某一直流电动机，将电磁转矩用M、负载转矩用Mz<\/sub>、转速用n表示之：下列哪种情况下电动机处于电动状态（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "M与n方向一致",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "Mz<\/sub>与n方向一致",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "M与n方向相反",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "Mz<\/sub>与n方向相反",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机铭牌上标明“额定电压380\/220V 接法丫\/△”。当电网电压为380V时，这台三相异步电动机应采用（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "△接法",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "丫接法",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "△、丫都可以",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "△、丫都不可以",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "与固有机械特性相比，人为机械特性上的最大电磁转矩减小，临界转差率没变，则该人为机械特性是异步电动机的（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "定子串接电阻的人为机械特性",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转子串接电阻的人为机械特性",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "降低电压的人为机械特性",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "一台三相异步电动机拖动额定恒转矩负载运行时，若电源电压下降10%，这时电动机的电磁转矩（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "Tem<\/sub>=TN<\/sub>",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "Tem<\/sub>=0.81TN<\/sub>",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "Tem<\/sub>=0.9TN<\/sub>",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "若在转子回路串接三相对称电阻下放重物时，电动机运行状态是：（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "能耗制动运行",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反向回馈制动运行",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "倒拉反转运行",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "三相异步电动机带恒转矩负载运行，如果电源电压下降，当电动机稳定运行后，电动机的电磁转矩（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "下降",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "上升",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "不变",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "不能确定",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "当电动机的电枢回路铜损耗比电磁功率或轴机械功率都大时，这时电动机处于（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "能耗制动状态",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "反接制动状态",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "回馈制动状态。",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "线绕式异步电动机在转子绕组中串变阻器起动，（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "起动电流减小，起动转矩减小",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "起动电流减小，起动转矩增大",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "起动电流增大，起动转矩减小",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "起动电流增大，起动转矩增大",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "degree": 2,
+  "title": "若要求三相异步电动机以高速稳定下放重物应采用哪种制动方法（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "能耗制动",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电源反接制动",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "倒拉反接制动",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "正向回馈制动",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "当电动机的电磁转矩T大于负载转矩Tz<\/sub>时，说明电动机的转速变化率（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "大于0",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "小于0",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "等于0",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "不能确定",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "绕线式三相异步电动机在负载不变的情况下，增加转子电路电阻会使其转速（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "增高",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "降低",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "稳定不变",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "不确定",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机在运行中，把定子两相反接，则转子的转速会（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "升高",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "下降一直到停转",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "下降至零后再反向旋转",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "下降到某一稳定转速",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "与固有机械特性相比，人为机械特性上的最大电磁转矩减小，临界转差率没变，则该人为机械特性是异步电动机的：（ ）。",
+  "ans": "C",
+  "opts": [{
+    "title": "定子串接电阻的人为机械特性",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "转子串接电阻的人为机械特性",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "降低电压的人为机械特性",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "直流电机中，电动机的额定功率是指（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "输入功率",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "输出的机械功率",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电磁功率",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机(除风机负载外)要保持稳定运行，则转差率S应该（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "小于临界转差率",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "等于临界转差率",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "大于临界转差率",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机在电动运行状态时，电机转子的转速始终（ ）旋转磁场的转速。",
+  "ans": "B",
+  "opts": [{
+    "title": "高于",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "低于",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "等于",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "下列几个部件中，属于直流电动机旋转部件的是（ ）。",
+  "ans": "B",
+  "opts": [{
+    "title": "主磁极",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "电枢绕组",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电刷",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "机座",
+    "value": "D",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "直流发电机主磁极磁通产生感应电动势存在于（ ）中。",
+  "ans": "A",
+  "opts": [{
+    "title": "电枢绕组",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "励磁绕组",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "电枢绕组和励磁绕组",
+    "value": "C",
+    "checked": 0
+  }]
+}, {
+  "type": 1,
+  "title": "三相异步电动机空载时，气隙磁通的大小主要取决于（ ）。",
+  "ans": "A",
+  "opts": [{
+    "title": "电源电压",
+    "value": "A",
+    "checked": 0
+  }, {
+    "title": "气隙大小",
+    "value": "B",
+    "checked": 0
+  }, {
+    "title": "定、转子铁心材质",
+    "value": "C",
+    "checked": 0
+  }, {
+    "title": "定子绕组的漏阻抗",
+    "value": "D",
+    "checked": 0
+  }]
+}];
+
+module.exports =  dgjc;

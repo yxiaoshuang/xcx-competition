@@ -1,0 +1,78 @@
+<view style="" class='qs_bg'>
+  <!-- <view class="countDownTimeView countDownAllView timer_countdown" >
+  <view class="voteText countDownTimeText">{{countDownSecond}}</view>
+ </view>  -->
+
+  <view>
+    <view class='sub_title' style='position:relative;'>
+      <view style='position:relative;width:320rpx;margin:0 auto;height:78rpx;color:white;display:inline-block;margin-top:10rpx;'>
+        <image src='../../assets/img/title.png' style='width:100%;height:inherit;'></image>
+        <view style='position:absolute;top:0rpx;width:100%;left:0rpx;font-size:36rpx;line-height:78rpx'>
+          <text wx-if="{{curSubject.ans.length>1}}">多选</text>
+          <text wx-if="{{curSubject.ans.length==1}}">单选</text>题 {{idx}}/{{qs_cnt}}</view>
+      </view>
+
+      <view class="countDownTimeView countDownAllView timer_countdown" style='display:inline-block;position:absolute;right:18rpx;top:80rpx;padding-top:36rpx;font-size:24rpx;'>
+        <view class="voteText countDownTimeText">{{countDownSecond}}s</view>
+      </view>
+    </view>
+
+
+    <!-- <button wx:for='{{ curSubject.opts }}' wx:key='index' wx:for-item='opts' wx-if="{{curSubject.ans.length==1}}" class='{{(ischecked!=-1)?((ischecked==index)?(isright?"btn_right":"btn_error"):((curSubject.ans==index)?"btn_right":"btn_blk")):"btn_blk"}}' bindtap='chooseAnswer' data-idx="{{index}}">{{opts}}</button> -->
+
+    <view class='list_bg' style="width:90%;margin:0 auto">
+
+      <view style='padding:30rpx;width:90%;margin:30rpx auto;'>
+        <text style='color:white;font-size:36rpx;'>{{curSubject.title}}</text>
+        <radio-group wx-if="{{curSubject.ans.length==1}}" class="radio-group" bindchange="radioChange">
+          <view>
+            <label class='{{(ischecked!=-1)?((ischecked==index)?(isright?"btn_right":"btn_error"):((curSubject.idxAns==index)?"btn_right":"btn_blk")):"btn_blk"}}' wx:for="{{curSubject.opts}}" wx:key='index' wx:for-item='opts' style='display:block;position:relative;display:flex;margin:30rpx 0;'>
+              <!-- 没选的话，默认显示ABCD,选对了，绿色，字母消失；选错了，红色，字母消失，未选的正确答案颜色变绿; -->
+              <text class='brand_def {{(ischecked!=-1)?((ischecked==index)?"brand_none":((curSubject.idxAns==index)?"brand_right":"brand_none")):"brand_def"}}' style='' wx-if="{{index==0}}">A</text>
+              <text class='brand_def {{(ischecked!=-1)?((ischecked==index)?"brand_none":((curSubject.idxAns==index)?"brand_right":"brand_none")):"brand_def"}}' style='' wx-if="{{index==1}}">B</text>
+              <text class='brand_def {{(ischecked!=-1)?((ischecked==index)?"brand_none":((curSubject.idxAns==index)?"brand_right":"brand_none")):"brand_def"}}' style='' wx-if="{{index==2}}">C</text>
+              <text class='brand_def {{(ischecked!=-1)?((ischecked==index)?"brand_none":((curSubject.idxAns==index)?"brand_right":"brand_none")):"brand_def"}}' style='' wx-if="{{index==3}}">D</text>
+              <view style='width:10%;'>
+                <radio value="{{opts.value}}" checked="{{opts.checked}}" disabled="{{rd_disabled}}" />
+              </view>
+              <view style='width:90%;'> {{opts.title}}</view>
+            </label>
+          </view>
+        </radio-group>
+        <checkbox-group class="chk_group" bindchange="checkboxChange" wx-if="{{curSubject.ans.length>1}}">
+          <label style="position:relative;font-size:36rpx;display:flex;" class="checkbox" wx:for='{{ curSubject.opts }}' wx:key='index' wx:for-item='opts' class='{{(rightAnsList[index].isright)?"chk_right":((rightAnsList[index].ischecked==1)?"chk_err":"chk_blk")}}'>
+            <text class='{{(rightAnsList[index].isright&&rightAnsList[index].ischecked==1)?"right":((rightAnsList[index].ischecked==1)?"error":"")}}'></text>
+            <text class='clolor_blue {{(rightAnsList[index].isright)?"color_green":((rightAnsList[index].ischecked==1)?"color_red":"")}}'>{{opts.options}}</text>
+            <view style='width:10%;'>
+              <checkbox value="{{opts.value}}" checked="{{opts.checked}}" />
+            </view>
+            <view style='width:90%'>
+              <text class='color_white  {{(rightAnsList[index].isright)?"color_green":((rightAnsList[index].ischecked==1)?"color_red":"")}}'>{{opts.title}}</text>
+            </view>
+          </label>
+        </checkbox-group>
+      </view>
+    </view>
+
+    <!-- <button wx-if="{{curSubject.ans.length>1}}" bindtap='mulClick' class='btn_blk' style='text-align:center;' disabled='{{multi_disabled}}'>确定</button>   -->
+    <view style='width:340rpx;height:80rpx;position:relative;margin:40rpx auto;' wx-if="{{curSubject.ans.length>1}}" bindtap='mulClick'>
+      <text style="color:#fff;font-size:32rpx;position:absolute;top:16rpx;left:110rpx;">确认答案</text>
+      <image src='../../assets/img/btn_go.png' style='width:100%;height:80rpx;'></image>
+    </view>
+
+    <!-- <button wx:for='{{ curSubject.ansList }}' wx:key='index' wx:for-item='ansList' wx-if="{{curSubject.type=='single'}}" class='{{(ischecked!=-1)?((ischecked==index)?(isright?"btn_right":"btn_error"):((curSubject.ans==index)?"btn_right":"btn_blk")):"btn_blk"}}' bindtap='chooseAnswer' data-idx="{{index}}">{{ansList}}</button>
+
+  <view wx-if="{{curSubject.type=='multiple'}}" >
+      <checkbox-group class="chk_group" bindchange="checkboxChange">
+            <label class="checkbox" wx:for='{{ curSubject.ansList }}' wx:key='index' wx:for-item='ansList' class='{{(rightAnsList[index].isright)?"chk_right":((rightAnsList[index].ischecked==1)?"chk_err":"chk_blk")}}'>
+            <checkbox value="{{ansList.value}}" checked="{{ansList.checked}}"/>{{ansList.title}}
+        </label>
+      </checkbox-group>
+  </view> -->
+
+    <!-- <button wx-if="{{curSubject.type=='multiple'}}" bindtap='mulClick' class='btn_blk' style='text-align:center;' disabled='{{multi_disabled}}'>确定</button>   -->
+
+
+  </view>
+
+</view>

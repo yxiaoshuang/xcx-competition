@@ -1,0 +1,266 @@
+/* main.wxss */
+
+.color_white {
+  color: #fff;
+}
+
+.color_green {
+  color: greenyellow;
+}
+
+.clolor_blue {
+  color: #1d68a1;
+  position: absolute;
+  left: 23rpx;
+  top: 15rpx;
+  font-size: 32rpx;
+  z-index: 1;
+}
+.clolor_blue.color_green{
+  color:greenyellow;
+}
+.color_red {
+  color: red !important;
+  position: absolute;
+  /* left: 23rpx; */
+  top: 15rpx;
+  font-size: 32rpx;
+  z-index: 1;
+}
+
+.timer_countdown {
+  text-align: center;
+  width: 78rpx;
+  height: 91rpx;
+  /* border-radius: 50%; */
+  /* border: 1px solid #f2f2f2; */
+  margin-left: auto;
+  margin-right: auto;
+  /* line-height: 78rpx; */
+  /* background: white; */
+  background: url(data:image/png;base64,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) no-repeat;
+  background-size: 78rpx 91rpx;
+  color: red;
+}
+
+.brand_def {
+  position: absolute;
+  z-index: 100;
+  color: #1d68a1;
+  left: 14rpx;
+  top: 5rpx;
+}
+
+/* 如果选对 */
+
+.brand_right {
+  color: yellowgreen;
+}
+
+.brand_none {
+  display: none;
+}
+
+.sub_title {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 80rpx;
+  height: 96rpx;
+}
+
+.btn_blk {
+  /* line-height: 49px; */
+  height: auto;
+  color: white;
+}
+
+.btn_right {
+  /* line-height: 49px; */
+  color: greenyellow;
+}
+
+.btn_error {
+  /* line-height: 49px; */
+  color: red;
+}
+
+.chk_group {
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.chk {
+  margin: 10px 5px;
+  display: block;
+}
+
+.chk_blk {
+  padding: 5px 5px;
+  margin-top: 10px;
+  display: block;
+  border-radius: 5px;
+}
+
+.chk_right {
+  padding: 5px 5px;
+  margin-top: 10px;
+  display: block;
+  color: #a3d436;
+}
+
+.chk_err {
+  padding: 5px 5px;
+  margin-top: 10px;
+  display: block;
+  color: red;
+  position: relative;
+}
+
+
+/* radio  */
+
+/* 选对后的 对勾样式 （白色对勾 可根据UI需求自己修改） */
+
+.btn_right radio .wx-radio-input.wx-radio-input-checked::before {
+  background-color: greenyellow;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAMAAABjROYVAAAAsVBMVEUAAAB/1CF/1CGD1yh/0yJ+0yF/1CF/1SF/0yGB1SKZ/zOA5jOA1SJ+0yOB1SR/0yF/1CJ/1CF+0yJ+0yJ/1CF+0yKA1SF/1CF+0yF+1SKA1iKC1SGC1yOA1SKA2SaI3SJ/1CJ+1CGD2Cd/1CKQ2T/T8LTG7Zx+0yH///+B1CfZ8r7H7KDb8sHF65z4/fOw5HaZ3FDq+Nvh9MvA6ZOi4F6U2kaK1zXv+eTQ76605X+f3lvrJvoPAAAAJ3RSTlMA1+0Z+/WTjHpLBQWcdU7H+ffw6t/SqINjW0Q9Mx4UD9m4J8Xl5FUHJptZAAADHklEQVRo3rzXCW7bMBCF4SGpxdq9b/Geto9OatdBkm73P1jdwqiBYmpIJkffBX5A0oxIaijdlUW+fRwNdberh6PHbV6Uu5TkmFmuAjAClc8M+ZclkcJNKkoy8mkRDVDDIFqQJ+tCoTZVrMndatJHI/3JityYOERjYWwcklknxF3CTkZ3mm9wNzWne5gxnIwNNZZoONIJNZPG8CBOqYFlBS+qJdX2oOGJfqCayh686ZVUyzSAR8GUaujAs45DU7A6hYAp3VQGEBCUN2elBxG9G5Oz1BCil/QfaQUxVUq8GIJiYiUQlRDDaIjShomOIWzMnE0gbk7/yDYQt8mcV677EjYhWhAaxxF1H9ZViFaEK7qaoCWTa3PdR0v61ztdgdYUf6MKrVF0sYB3+9P7HqzFJRrBtx9Ha7/9BCe6bMABPHu2vx3fwRhk/H/US/PsOzgJ/3Q9Ne0LOBH77fpq2s/gKDozYLk37RewDBHNwHJvPoE3I6IcLPfmHryceaXSTSiiNABDsIkgpU9gSDaBHX0EQ7SJkg5giDZREDNMwk3k9AaGaBNb+gDW19en55NMExWNwDkd7dmrSBMjGoKxf7F/HCSaGJIG42QvDgJNaOqC8WaZqq8mur+Ys2McBKEgCMP7FE3AB4WG2BgNUIwYxYTC+x/NimzzmmGMcIKv2Wb+TaOfu6uamUbT+/uVUH9lYpM+JPTPhKqafkg1OFU3UVsHTtVNdNaAU3UTjUVwqm4iWglO1U2UVoFTdROVteBU3URrRcapupkVZgGEqpm+KyIYVTcRp1lBqILps2ILRpVMH1AWKFU2wzSKGVUxfRTnoFTRRO6hg1A183TwpEOokok9Ea9c1UxciEznqmYGIki6qpkoifTqqmYeb3Rk7h+iifOcnP4eh2GcP2l31yUeB8u/SP70DFrD2+tbvR1aAQDCQAwdoR7F/lOiEEjaXl9ujvyMBD5GyhyItpQ8rQ7xJHIgxRUsRqIDMzwapEFQTO7VD9u4hK8XK7JZZh9A5VNbBSrW8+m9nKB4gcT74f/M5uA7dHyuK+6Tzrsjxd2RIrUjHQJZQ9j1JhHvAAAAAElFTkSuQmCC) no-repeat;
+  background-size: 100% 100%;
+}
+
+/* 选错后的 对勾样式 （白色对勾 可根据UI需求自己修改） */
+
+.btn_error radio .wx-radio-input.wx-radio-input-checked::before {
+  background-color: red;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAMAAABjROYVAAAAclBMVEUAAADyNzD/WUDyNi/yNi/yNi/yNi/1PDLyNjDyNy/yNi/yNy/yNy/yNi/zNzDyNjDzNzDxNzDxNy/xNzH0ODHyNjL1NzLyOzT3PDPyQDP/RDPxNi/xNzDxNi/////+9PP0YVvzU037z872hoLyRD7xNzASN5HdAAAAHXRSTlMATQX79u7YGerSx5yTjHp1X9+og0Q9MyceFA+4udeAiUoAAAKnSURBVGjetNbZbtswEIVhipt2S95jJ4eyneT9X7GI0aYFVJ9QY/K/tYEP4IwoqYXpYzG0r029royp1nXz2g7FUat8lWPrDTDP+HYsVfp00XnQfFfopOShqxBR1R1SieehRnT1cE5AnrYOi3Lb07O701sszvalkqdXhKTsSkvNnYc4v5Od7AZPtRGcceHwZK5YOs0eCeoXTfalQZKal3hz75Aot48ep0WybORgR4OEmTHGXCFxK4mZXx2RoZGbhUGGDN2mvUWW7J7cCQ6Zcg9vCd0gW41+gPbIWP9giZC1/y5T6ZA1V6p5G2RuMzd3yN5utrke2fNacOWmvoRLC+TPloJHNO3DerIgfV4/ENnH9RMke/oH3YL0PoVwuyKi6y2E6R2k7V/z7JgZvpou+LHLFL5iqjt/owM72ynMVGqGiZ3w8I3W7MhCiFPv5j02ivqPeaCrEeYqNwNdu8NvtAPrNle5eQOrU/d0xVdymqnUnPiiVzrqPXohKvkLf692EKr8D/x8PQSq2IS/3/WAQBWbQHn/pheq/Cf+vd9CospNtHSkXOUmH6o2kKhyE0arIyBRuck7qgIyVW6iUAOEqtjEQJeXq1ITrXoDiapSE2+qAYmqUhMN+WrgqtxErdYgEVVuYq0qkIgqN1EpAxJR5SbMr+rt2AhAGIah6AYskP33ZAAqEjtPbmm444hjSV/kpeTzkh+JHBkzHNbnWfsYXGTgk6uNXOJkXSGLmVhBybJNZAURUEIqElFM5D8xOoSlQ8wrYdMRQ5JYr8JkJna6CA58RHIpDEqIva4EfBlR5oXQNiWe7g7ik5CDVrgiCyPpA2by0KCdIRyJXj2pYFs1wpcMK1ZimekAahFqOwMqPsanJ4HiB0j8PPh/p+Ywt9Dxr7oyvqRTWkd6AVYOqtOshzzeAAAAAElFTkSuQmCC) no-repeat;
+  background-size: 100% 100%;
+}
+
+/* 选错后的背景样式 */
+
+.btn_error radio .wx-radio-input.wx-radio-input-checked {
+  border: none;
+  background: red;
+}
+
+/* 选对后的背景样式 */
+
+.btn_right radio .wx-radio-input.wx-radio-input-checked {
+  border: none;
+  background: greenyellow;
+}
+
+.btn_error radio .wx-radio-input.wx-radio-input-checked::before,
+.btn_right radio .wx-radio-input.wx-radio-input-checked::before {
+  border-radius: 50%;
+  width: 100%;
+  height:100%;
+  text-align: center;
+  color: transparent; /* 对勾颜色 白色 */
+  line-height: 50rpx;
+  /* margin-left: 1px; */
+  transform: translate(-50%, -50%) scale(1);
+  -webkit-transform: translate(-50%, -50%) scale(1);
+}
+
+/*  重写 checkbox 样式  */
+
+/* 未选中的 背景样式 */
+
+checkbox .wx-checkbox-input {
+  /* border-radius: 50%;圆角 *//* width: 40rpx; 背景的宽 *//* height: 40rpx; 背景的高 */
+}
+
+/* 选中后的 背景样式  */
+
+checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+  border: none;
+}
+
+.chk_blk  checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+  background: gray;
+}
+
+.chk_right checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+  background: greenyellow;
+}
+
+.chk_err checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+  background: red;
+}
+
+/* 选中后的 对勾样式  */
+
+checkbox .wx-checkbox-input.wx-checkbox-input-checked::before {
+  border-radius: 50%; /* 圆角 */
+  /* width: 20rpx; 选中后对勾大小，不要超过背景的尺寸 */
+  /* height: 20rpx; 选中后对勾大小，不要超过背景的尺寸 */
+  /* line-height: 20rpx; */
+  text-align: center;
+  /* font-size: 30rpx; */
+  color: transparent; /* 对勾颜色 白色 */
+}
+
+.chk_right checkbox .wx-checkbox-input.wx-checkbox-input-checked::before {
+  background: greenyellow;
+}
+
+.chk_err checkbox .wx-checkbox-input.wx-checkbox-input-checked::before {
+  /* background: greenyellow; */
+}
+
+.error {
+  position: absolute;
+  width: 30rpx;
+  height: 7rpx;
+  background: white;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: inline-block;
+  z-index: 2;
+  left: 20rpx;
+  top: 34rpx;
+  color: red;
+}
+
+.error::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30rpx;
+  height: 7rpx;
+  background: white;
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+.right {
+  display: inline-block;
+  width: 14rpx;
+  height: 4rpx;
+  background: #fff;
+  line-height: 0;
+  font-size: 0;
+  vertical-align: middle;
+  -webkit-transform: rotate(45deg);
+  position: absolute;
+  top: 40rpx;
+  z-index: 3;
+  left: 18rpx;
+}
+
+.right:after {
+  content: '/';
+  display: block;
+  width: 28rpx;
+  height: 4rpx;
+  background: #fff;
+  -webkit-transform: rotate(-90deg) translateY(-50%) translateX(50%);
+}
